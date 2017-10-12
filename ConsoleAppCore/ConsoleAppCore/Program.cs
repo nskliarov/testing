@@ -1,4 +1,5 @@
 ﻿using System;
+using UsingNameConsoleAppRefernceApp;
 
 namespace ConsoleAppCore
 {
@@ -7,6 +8,7 @@ namespace ConsoleAppCore
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            UsingNameConsoleAppRefernceApp.ProgramRefernceApp.Main();
         }
     }
 }
