@@ -1,14 +1,16 @@
 ﻿using System;
 using UsingNameConsoleAppRefernceApp;
 
-namespace ConsoleAppCore
+namespace MyAppsCore
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            UsingNameConsoleAppRefernceApp.ProgramRefernceApp.Main();
+
+            //UsingNameConsoleAppRefernceApp.ProgramRefernceApp.Main();
+            ProgramRefernceApp.Main();
         }
     }
 }
