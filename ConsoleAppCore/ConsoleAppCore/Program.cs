@@ -11,6 +11,7 @@ namespace MyAppsCore
 
             //UsingNameConsoleAppRefernceApp.ProgramRefernceApp.Main();
             ProgramRefernceApp.Main();
+            Console.ReadKey();
         }
     }
 }

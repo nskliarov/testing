@@ -7,6 +7,7 @@ namespace UsingNameConsoleAppRefernceApp
         public static void Main()
         {
             Console.WriteLine("RefernceApp");
+            Console.ReadKey();
         }
     }
 }
